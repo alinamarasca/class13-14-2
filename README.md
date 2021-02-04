@@ -6,5 +6,5 @@
 | [Mayuri](https://github.com/mayuri2510)  |       PHP
 | [Sheyla](https://github.com/sheybusta)   |
 | [Alina](https://github.com/alinamarasca) |       none        |
-| [Michael](https://github.com/Mika215)    |
+| [Michael](https://github.com/Mika215)    |       none        |
 | [Houcinos](https://github.com/Houcinos)  |
