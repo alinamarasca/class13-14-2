@@ -2,7 +2,7 @@
 
 | name                                     | coding experience |
 | ---------------------------------------- | :---------------: |
-| [Erkam](https://github.com/erkamguresen) |
+| [Erkam](https://github.com/erkamguresen) |       java        |
 | [Mayuri](https://github.com/mayuri2510)  |
 | [Sheyla](https://github.com/sheybusta)   |
 | [Alina](https://github.com/alinamarasca) |       none        |
